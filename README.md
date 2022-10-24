@@ -12,6 +12,6 @@ https://github.com/nikkijuk/simple-flutter-bloc-counter/blob/main/bloc_counter/l
 
 https://github.com/nikkijuk/simple-flutter-bloc-counter/blob/main/bloc_counter/test/counter_bloc_test.dart
 
-## original widget tests from flutter test app still works fine
+## original widget tests from flutter test app prove that nothing is broken
 
 https://github.com/nikkijuk/simple-flutter-bloc-counter/blob/main/bloc_counter/test/widget_test.dart
