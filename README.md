@@ -10,6 +10,7 @@ Thanks for [VGV](https://verygood.ventures/) for providing seed code
 2. Add needed dependencies to pubspec.yaml (bloc, flutter_bloc, bloc_test)
 3. Replace main.dart content with file from this project
 4. Add counter_bloc_test.dart from this project
+5. Run widget test to see that it's all working
 
 ## Bloc counter example in one file
 
