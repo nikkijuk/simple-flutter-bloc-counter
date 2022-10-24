@@ -8,6 +8,10 @@ Thanks for [VGV](https://verygood.ventures/) for providing seed code
 
 https://github.com/nikkijuk/simple-flutter-bloc-counter/blob/main/bloc_counter/lib/main.dart
 
-## Very simple bloc test
+## simple bloc test
 
 https://github.com/nikkijuk/simple-flutter-bloc-counter/blob/main/bloc_counter/test/counter_bloc_test.dart
+
+## original widget tests from flutter test app still works fine
+
+https://github.com/nikkijuk/simple-flutter-bloc-counter/blob/main/bloc_counter/test/widget_test.dart
