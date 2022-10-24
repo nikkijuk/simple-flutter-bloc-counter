@@ -1,7 +1,10 @@
 # simple-flutter-bloc-counter
-simple-flutter-bloc-counter
 
-## Main counter example in one file
+Please note: none of this is not original work of mine, even if I have modified it for my purposes
+
+Thanks for [VGV](https://verygood.ventures/) for providing seed code 
+
+## Bloc counter example in one file
 
 https://github.com/nikkijuk/simple-flutter-bloc-counter/blob/main/bloc_counter/lib/main.dart
 
