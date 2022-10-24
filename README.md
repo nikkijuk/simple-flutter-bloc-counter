@@ -1,6 +1,6 @@
 # simple-flutter-bloc-counter
 
-Please note: none of this is not original work of mine, even if I have modified it for my purposes
+Please note: none of this is original work of mine, even if I have modified it for my purposes
 
 Thanks for [VGV](https://verygood.ventures/) for providing seed code 
 
